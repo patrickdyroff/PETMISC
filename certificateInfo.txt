@@ -1,0 +1,21 @@
+google.com:
+
+subject=/C=US/ST=California/L=Mountain View/O=Google Inc/CN=www.google.com
+issuer=/C=US/O=Google Inc/CN=Google Internet Authority G2
+
+kerf.cs.dartmouth.edu:
+
+subject=/C=US/ST=New Hampshire/L=Hanover/O=Dartmouth College/OU=ISTS/CN=kerf.cs.dartmouth.edu/emailAddress=sergey@cs.dartmouth.edu
+issuer=/DC=edu/DC=dartmouth/C=US/O=Dartmouth College/CN=Dartmouth CertAuth1
+
+ssl.gstatic.com:
+
+subject=/C=US/ST=California/L=Mountain View/O=Google Inc/CN=google.com
+issuer=/C=US/O=Google Inc/CN=Google Internet Authority G2
+
+www.gstatic.com:
+
+subject=/C=US/ST=California/L=Mountain View/O=Google Inc/CN=google.com
+issuer=/C=US/O=Google Inc/CN=Google Internet Authority G2
+
+All google related certificates are identical, more or less
